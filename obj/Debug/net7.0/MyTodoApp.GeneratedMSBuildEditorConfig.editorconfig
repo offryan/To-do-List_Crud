@@ -9,65 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyTodoApp
 build_property.RootNamespace = MyTodoApp
-build_property.ProjectDir = c:\Users\Administrator\Desktop\repo\MyTodoApp\
+build_property.ProjectDir = p:\repos\To-do-List_Crud\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Administrator\Desktop\repo\MyTodoApp
+build_property.MSBuildProjectDirectory = p:\repos\To-do-List_Crud
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[p:/repos/To-do-List_Crud/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Home/Index.cshtml]
+[p:/repos/To-do-List_Crud/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Home/Privacy.cshtml]
+[p:/repos/To-do-List_Crud/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Shared/Error.cshtml]
+[p:/repos/To-do-List_Crud/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Shared/_LoginPartial.cshtml]
+[p:/repos/To-do-List_Crud/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[p:/repos/To-do-List_Crud/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Todo/Create.cshtml]
+[p:/repos/To-do-List_Crud/Views/Todo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Todo/Delete.cshtml]
+[p:/repos/To-do-List_Crud/Views/Todo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Todo/Details.cshtml]
+[p:/repos/To-do-List_Crud/Views/Todo/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Todo/Edit.cshtml]
+[p:/repos/To-do-List_Crud/Views/Todo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Todo/Index.cshtml]
+[p:/repos/To-do-List_Crud/Views/Todo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9kb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/_ViewImports.cshtml]
+[p:/repos/To-do-List_Crud/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/_ViewStart.cshtml]
+[p:/repos/To-do-List_Crud/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Administrator/Desktop/repo/MyTodoApp/Views/Shared/_Layout.cshtml]
+[p:/repos/To-do-List_Crud/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-auvzq10hpx
